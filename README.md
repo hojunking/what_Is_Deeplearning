@@ -1,2 +1,2 @@
-# what_Is_DeepLearning
+# what_Is_Deeplearning
 I'm about to deep learning!
