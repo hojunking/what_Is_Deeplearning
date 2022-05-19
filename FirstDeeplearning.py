@@ -15,8 +15,18 @@
 
 print("Hello, Deeplearning!")
 
-호준이의 딥러닝
+# 호준이의 딥러닝
 
 # 호준이의 딥러닝
 
+# !pip install tensorflow==2.6.1
 
+import tensorflow
+
+print(tensorflow.__version__)
+
+# !pip install keras==2.6
+
+import sys
+
+print(sys.version)
