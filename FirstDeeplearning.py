@@ -30,3 +30,7 @@ print(tensorflow.__version__)
 import sys
 
 print(sys.version)
+
+# !pip install matplotlib
+
+

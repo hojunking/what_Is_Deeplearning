@@ -5,7 +5,7 @@ import numpy as np
 x = np.array([2,4,6,8])
 y = np.array([81,93,91,97])
 
-#임의의 기울기 a, y절편 b 설정
+#임의의 기울기 a, y절편 b 설정햣 ㄴㅅㅁ
 fake_a = 3
 fake_b = 76
 
